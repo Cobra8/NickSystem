@@ -1,0 +1,8 @@
+name: NickSystem
+version: 1.0
+author: Cobra_8
+main: me.Cobra_8.NickSystem
+commands:
+    nick:
+        description: You are nicked as an other Player!
+        
